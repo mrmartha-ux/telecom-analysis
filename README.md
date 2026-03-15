@@ -122,52 +122,44 @@ Adult (30-59)
 
 Senior (60+)
 
-Key Findings
+Hallazgos Clave
 
-Most users belong to the Adult segment, suggesting that ConnectaTel’s primary audience is working-age customers.
+La mayoría de los usuarios son del segmento adulto (edad laboral).
 
-The majority of customers fall into the medium usage category.
+La mayoría tiene uso medio, mientras que unos pocos usuarios de alto uso generan gran parte de la actividad.
 
-A smaller group of high-usage customers generates a disproportionate amount of activity.
+Los outliers en llamadas y minutos representan clientes valiosos.
 
-Outliers in calls and minutes correspond to power users, representing valuable customers.
+Recomendaciones
 
-Business Recommendations
+Crear planes premium para clientes de alto uso.
 
-Based on the analysis:
+Ofrecer planes simples y económicos para usuarios de bajo uso.
 
-Develop premium plans tailored for high-usage customers.
+Enfocar marketing en el segmento adulto.
 
-Offer simpler, low-cost plans for low-usage users.
+Realizar ofertas dirigidas a usuarios de alta actividad para aumentar retención e ingresos.
 
-Focus marketing efforts on the adult demographic segment.
+Cómo Ejecutar
 
-Consider targeted offers for high-activity users to increase retention and revenue.
+Clonar el repositorio:
 
-How to Run This Project
+git clone https://github.com/your-mrmartha-ux/connectatel-analysis.git
 
-Clone the repository
+Abrir el notebook en Google Colab o Jupyter Notebook.
 
-Open the notebook in Google Colab or Jupyter Notebook
+Ejecutar todas las celdas secuencialmente.
 
-Run all cells sequentially.
-
-Example:
-
-git clone https://github.com/your-username/connectatel-analysis.git
-📁 Repository Structure
+Estructura del Repositorio
 connectatel-analysis
 │
 ├── notebook/
 │   └── connectatel_analysis.ipynb
-│
 ├── data/
 │   ├── users.csv
 │   └── usage.csv
-│
 └── README.md
-👩‍💻 Author
+Autor
 
-Project developed as part of a Data Analysis training program focused on practical data cleaning, exploration, and business insights.
-
+Proyecto desarrollado como parte de un bootcamp de Análisis de Datos en Triple Ten, enfocado en limpieza de datos, exploración y generación de insights de negocio.
 
